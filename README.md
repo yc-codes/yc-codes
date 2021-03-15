@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Yash's GitHub stats](https://yc-stats.vercel.app/api?username=yc-codes&show_icons=true&count_private=true)]
+![Yash's GitHub stats](https://yc-stats.vercel.app/api?username=yc-codes&show_icons=true&count_private=true)
