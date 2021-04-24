@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - CSS design
 - UX Improvements
 - Flutter Developement and It's Performance issue
-- 
+- Many more
 
 ### Contact
 
