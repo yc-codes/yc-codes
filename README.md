@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 - Many more
 
 ### Contact
-
+<!---
 [Resume](https://github.com/yc-codes/yc-codes/raw/main/yash_chauhan_resume.pdf)
-
+--->
 [Telegram](https://t.me/yc_codes)
 
 [Twitter](https://twitter.com/yc_codes)
