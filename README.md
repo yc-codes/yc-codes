@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ``
 - 🤔 I’m looking for help with ``
 --->
-- 🌱 I’m currently learning [Framer Motion](https://www.framer.com/motion/)
-- 💬 Ask me about `How can i fix a printer as a sofware developer?`
-- 📫 How to reach me: [Contact](#Contact)
+- 🌱 I’m currently learning [Bloc Design Pattern](https://bloclibrary.dev/)
+- 💬 Ask me about ``
+- 📫 How to reach me: [Here](#Contact)
 - 😄 Pronouns: `He/Him`
-- ⚡ Fun fact: `I listen music all day`
+<!---
+- ⚡ Fun fact: ``
+--->
 
 ![Yash's GitHub stats](https://yc-stats.vercel.app/api?username=yc-codes&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&show_owner=true&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)
 
