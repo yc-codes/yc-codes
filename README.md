@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - CSS
 - UX Improvements
 - Flutter Developement and It's Performance issue
-- Many more
+- And Anything else...
 
 ### Contact
 <!---
