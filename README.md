@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ``
 --->
 - 🌱 I’m currently learning [Bloc Design Pattern](https://bloclibrary.dev/)
-- 💬 Ask me about ``
+- 💬 Ask me about `Anything`
 - 📫 How to reach me: [Here](#Contact)
 - 😄 Pronouns: `He/Him`
 <!---
@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 
 ### Things I like to talk about
 
+- Code Refactoring
+- Good Design Artitecture
 - Good Design vs Bad Design
-- CSS design
+- CSS
 - UX Improvements
 - Flutter Developement and It's Performance issue
 - Many more
@@ -36,9 +38,9 @@ Here are some ideas to get you started:
 <!---
 [Resume](https://github.com/yc-codes/yc-codes/raw/main/yash_chauhan_resume.pdf)
 --->
-[Telegram](https://t.me/yc_codes)
-
 [Twitter](https://twitter.com/yc_codes)
+
+[Telegram](https://t.me/yc_codes)
 
 [Instagram](https://www.instagram.com/yc_codes)
 
