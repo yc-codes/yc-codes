@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --->
 - 🌱 I’m currently learning [Bloc Design Pattern](https://bloclibrary.dev/)
 - 💬 Ask me about `Anything`
-- 📫 How to reach me: [Here](#Contact)
+- 📫 How to reach me: [Telegram](https://t.me/yc_codes), [Instagram](https://www.instagram.com/yc_codes)
 - 😄 Pronouns: `He/Him`
 <!---
 - ⚡ Fun fact: ``
@@ -40,10 +40,6 @@ Here are some ideas to get you started:
 <!---
 [Resume](https://github.com/yc-codes/yc-codes/raw/main/yash_chauhan_resume.pdf)
 --->
-
-[Telegram](https://t.me/yc_codes)
-
-[Instagram](https://www.instagram.com/yc_codes)
 
 <!--
 ![Yash's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yc-codes&hide_border=true&background=161b22&ring=27d545&fire=27d545&currStreakLabel=27d545&currStreakNum=f0f6fc&sideLabels=c9d1d9&dates=8b949e&sideNums=f0f6fc&stroke=30363d)
