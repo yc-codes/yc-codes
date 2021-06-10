@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 - Flutter Developement and It's Performance issue
 - And Everything... -->
 
-### Contact
 <!---
 [Resume](https://github.com/yc-codes/yc-codes/raw/main/yash_chauhan_resume.pdf)
 --->
