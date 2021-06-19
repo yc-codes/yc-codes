@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ``
 --->
 
-![Yash's GitHub stats](https://yc-stats.vercel.app/api?username=yc-codes&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&show_owner=true&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)
-
+<details>
+  <summary><b>GitHub Stats</b></summary>
+ ![Yash's GitHub stats](https://yc-stats.vercel.app/api?username=yc-codes&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&show_owner=true&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)
+</details>
  
 <!-- 
 ### Things I like to talk about
