@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on `NextJS` `ReactJS` `Laravel` `Flutter`
 <!-- - 👯 I’m looking to collaborate on [Rainbow - Color Palettes Generator](https://github.com/yc-codes/rainbow)
 - 🤔 I’m looking for help with [Rainbow - Color Palettes Generator](https://github.com/yc-codes/rainbow) -->
 <!-- - 🌱 I’m currently learning [Bloc Design Pattern](https://bloclibrary.dev/) -->
+- 🔭 I’m currently working on `NextJS` `ReactJS` `Laravel` `Flutter`
 - 💬 Ask me about `UI/UX Related stuff`
 - 📫 How to reach me: [Telegram](https://t.me/yc_codes), [Instagram](https://www.instagram.com/yc_codes)
 - 😄 Pronouns: `He/Him`
