@@ -31,8 +31,8 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yc-codes&repo=json-2-ts&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="Yash Chauhan is currentlt working on rainbow" />
 </details>
 
-<p>
+<!-- <p>
  <img src="https://komarev.com/ghpvc/?username=yc-codes" />
  <img src="https://badges.pufler.dev/repos/yc-codes?&logo=github&logoColor=white" />
  <img src="https://badges.pufler.dev/commits/monthly/yc-codes?&logo=github&logoColor=white" />
-</p>
+</p> -->
