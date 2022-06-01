@@ -1,4 +1,4 @@
-### Hey, <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="24px">
+### Hey, <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="24px" height="24px">
 
 <!--
 **yc-codes/yc-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
