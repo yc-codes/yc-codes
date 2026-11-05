@@ -1,36 +1,28 @@
-### Hey, <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="24px" height="24px">
+## Yash Chauhan
 
-<!--
-**yc-codes/yc-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer in Vadodara, India. I build products for the web and mobile with TypeScript, React, Next.js and Flutter, and care about the details that make software feel considered: performance, clarity and craft.
 
-Here are some ideas to get you started:
+Currently a Software Engineer at [Kode Creators](https://kodecreators.com/). Building in public since 2017.
 
--->
+**[yc-codes.vercel.app](https://yc-codes.vercel.app)** · [yash@kodecreators.com](mailto:yash@kodecreators.com) · [LinkedIn](https://www.linkedin.com/in/yc9274) · [X](https://x.com/yc_codes) · [Instagram](https://www.instagram.com/yc_codes)
 
-<!-- - 👯 I’m looking to collaborate on [Rainbow - Color Palettes Generator](https://github.com/yc-codes/rainbow)
-- 🤔 I’m looking for help with [Rainbow - Color Palettes Generator](https://github.com/yc-codes/rainbow) -->
-<!-- - 🌱 I’m currently learning [Bloc Design Pattern](https://bloclibrary.dev/) -->
-- 📫 Contact: [Telegram](https://t.me/yc_codes), [Instagram](https://www.instagram.com/yc_codes)
-<!--
-<img src="https://yc-stats.vercel.app/api?username=yc-codes&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&show_owner=true&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="Yash Chauhan's GitHub stats" />
--->
+### Selected work
 
-<!-- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yc-codes&hide_border=true&background=161b22&ring=27d545&fire=27d545&currStreakLabel=27d545&currStreakNum=f0f6fc&sideLabels=c9d1d9&dates=8b949e&sideNums=f0f6fc&stroke=30363d" alt="Yash Chauhan's GitHub Streak" />
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**The Device Index**](https://the-device-index.vercel.app) · [source](https://github.com/yc-codes/the-device-index) | A price-comparison index for laptops, phones, tablets and wearables. It normalises the same configuration across up to 39 countries and converts it to your currency, so buyers can see where a device is genuinely cheapest. | TypeScript, React, TanStack Start |
+| [**json2ts**](https://json2ts.vercel.app) · [source](https://github.com/yc-codes/json-2-ts) | Turns any JSON payload into typed TypeScript interfaces, entirely in the browser. 60+ stars. | TypeScript, Next.js |
 
-<details>
- <summary><b>Most Used Languages</b></summary><br/>
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yc-codes&show_icons=true&count_private=true&border_radius=12&layout=compact&title_color=58a6ff&bg_color=161b22&show_owner=true&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
-</details>
+### Also on GitHub
 
-<details>
- <summary><b>Currently Working on</b></summary><br/>
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=yc-codes&repo=rainbow&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="Yash Chauhan is currentlt working on rainbow" />
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=yc-codes&repo=json-2-ts&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="Yash Chauhan is currentlt working on rainbow" />
-</details>
+- [**rainbow**](https://github.com/yc-codes/rainbow): colour palette generator for Android (Flutter)
+- [**vscode-react-lazy-imports**](https://github.com/yc-codes/vscode-react-lazy-imports): VS Code helper for React lazy imports
+- [**nushell-build**](https://github.com/yc-codes/nushell-build): CI that compiles portable Nushell binaries
+- [**github-flutter**](https://github.com/yc-codes/github-flutter): a GitHub client built in Flutter
 
-<p>
- <img src="https://komarev.com/ghpvc/?username=yc-codes" />
- <img src="https://badges.pufler.dev/repos/yc-codes?&logo=github&logoColor=white" />
- <img src="https://badges.pufler.dev/commits/monthly/yc-codes?&logo=github&logoColor=white" />
-</p> -->
+### Toolkit
+
+- **Web:** TypeScript, React, Next.js, Astro, Node.js
+- **Mobile:** Flutter, Dart, Android
+- **Backend & tooling:** PHP / Laravel, REST APIs, GitHub Actions, Rust (exploring)
+- **AI agents:** Claude Code, Codex. I own the architecture, context and review that make their output shippable.
