@@ -1,32 +1,18 @@
-<div align="center">
+# Hi, I’m Yash
 
-<a href="https://yc-codes.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png"><img src="assets/header-light.png" alt="Yash Chauhan — Software Engineer in Vadodara, India. I build software for people with better things to do." width="100%"></picture></a>
+I build web and mobile apps at [Kode Makers](https://github.com/kodemakers) in Vadodara, India.
 
-<p>
-<a href="https://yc-codes.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/b-portfolio-dark.png"><img src="assets/b-portfolio-light.png" alt="Portfolio" height="38"></picture></a>
-<a href="mailto:yash@kodecreators.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/b-email-dark.png"><img src="assets/b-email-light.png" alt="Email yash@kodecreators.com" height="38"></picture></a>
-<a href="https://www.linkedin.com/in/yc9274"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/b-linkedin-dark.png"><img src="assets/b-linkedin-light.png" alt="LinkedIn" height="38"></picture></a>
-<a href="https://x.com/yc_codes"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/b-x-dark.png"><img src="assets/b-x-light.png" alt="X" height="38"></picture></a>
-<a href="https://www.instagram.com/yc_codes"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/b-instagram-dark.png"><img src="assets/b-instagram-light.png" alt="Instagram" height="38"></picture></a>
-</p>
+## Selected work
 
-<br>
+- [The Device Index](https://github.com/yc-codes/the-device-index) compares prices for phones, laptops, tablets, and wearables across countries.
+- [json-2-ts](https://github.com/yc-codes/json-2-ts) turns a JSON sample into TypeScript interfaces in the browser.
+- [color-picker](https://github.com/yc-codes/color-picker) lets you browse colors and click a swatch to copy its value.
+- [github-flutter](https://github.com/yc-codes/github-flutter) recreates GitHub’s interface in Flutter.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-work-dark.png"><img src="assets/h-work-light.png" alt="Selected work" width="100%"></picture>
+## Tech
 
-<p>
-<a href="https://the-device-index.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/c-device-dark.png"><img src="assets/c-device-light.png" alt="The Device Index — a price-comparison index for laptops, phones, tablets and wearables across 39 countries. TypeScript, React, TanStack Start." width="49%"></picture></a>
-<a href="https://json2ts.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/c-json-dark.png"><img src="assets/c-json-light.png" alt="json2ts — turns JSON into typed TypeScript interfaces in the browser. TypeScript, Next.js. 61 stars." width="49%"></picture></a>
-</p>
+I use TypeScript, React, and Next.js for the web, Flutter and Dart for mobile, and Node.js and Laravel for backend work.
 
-<sub><a href="https://github.com/yc-codes/the-device-index">The Device Index source</a> · <a href="https://github.com/yc-codes/json-2-ts">json2ts source</a> · <a href="https://github.com/yc-codes/rainbow">rainbow</a> · <a href="https://github.com/yc-codes/vscode-react-lazy-imports">vscode-react-lazy-imports</a> · <a href="https://github.com/yc-codes/nushell-build">nushell-build</a> · <a href="https://github.com/yc-codes/github-flutter">github-flutter</a></sub>
+## Contact
 
-<br><br>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.png"><img src="assets/toolkit-light.png" alt="Toolkit — Web: TypeScript, React, Next.js, Astro, Node.js. Mobile: Flutter, Dart, Android, PWAs. Backend and tooling: PHP/Laravel, REST APIs, GitHub Actions, Rust. AI agents: Claude Code, Codex." width="100%"></picture>
-
-<br><br>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.png"><img src="assets/footer-light.png" alt="Based in Baroda, Gujarat, India (IST, UTC+5:30). Line drawing of Laxmi Vilas Palace." width="100%"></picture>
-
-</div>
+[yash@kodecreators.com](mailto:yash@kodecreators.com) · [LinkedIn](https://www.linkedin.com/in/yc9274) · [Portfolio](https://yc-codes.vercel.app)
