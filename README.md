@@ -15,4 +15,4 @@ I use TypeScript, React, and Next.js for the web, Flutter and Dart for mobile, a
 
 ## Contact
 
-[yash@kodecreators.com](mailto:yash@kodecreators.com) · [LinkedIn](https://www.linkedin.com/in/yc9274) · [Portfolio](https://yc-codes.vercel.app)
+[yashloop@proton.me](mailto:yashloop@proton.me) · [LinkedIn](https://www.linkedin.com/in/yc9274) · [Portfolio](https://yc-codes.vercel.app)
